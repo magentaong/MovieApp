@@ -86,7 +86,7 @@ VITE_APPWRITE_COLLECTION_ID=
 ```
 --- 
 ## 📸 Demo
-[!Screenshot 2025-06-28 at 1.16.47 AM.png]
+<img width="1085" alt="Demo of movie" src="https://github.com/user-attachments/assets/e6f22f28-19f6-43d9-bc2d-169be91c49ea" />
 
 ---
 
